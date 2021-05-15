@@ -1,4 +1,4 @@
-# riotKey = "api_key-RGAPI-6b697fac-77d3-49e7-bc35-00d76113a965"
+# riotKey = "api-key"
 
 import requests
 import json
